@@ -3,7 +3,6 @@
 ## QUESTION:
 Create a class Person with attributes name and age. Write a method greet() that prints: Hello, my name is <name> and I am <age> years old.
 
-import java.util.Scanner;
 
 
 ## AIM:
